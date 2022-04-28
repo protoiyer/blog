@@ -1,0 +1,4 @@
+baseURL = "https://protoiyer.github.io/"
+languageCode = "en-us"
+title = "Protos Musings"
+theme = 'ananke'
