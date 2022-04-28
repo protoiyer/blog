@@ -1,0 +1,10 @@
+[submodule "protoiyer/themes/themes/hugo-coder"]
+	path = protoiyer/themes/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "protoiyer/public"]
+	path = protoiyer/public
+	url = https://github.com/protoiyer/protoiyer.github.io.git
+	branch = main
+[submodule "protoiyer/themes/ananke"]
+	path = protoiyer/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
