@@ -1,5 +1,5 @@
 ---
-title: 'Setting up my Linux Box and Ruby on Rails - Ubuntu 12.04 Edition'
+title: 'Setting up my Linux box and Ruby on Rails - Ubuntu 12.04 Edition'
 date: Wed, 02 May 2012 14:35:16 +0000
 draft: false
 tags: ['Programming']
