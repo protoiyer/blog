@@ -378,7 +378,7 @@ The dock should be small, hidden away to the left. I keep a very small number of
 
 
 
-**Z. Touchbar config**
+**W. Touchbar config**
 
 I can't generally stand the Touchbar (perhaps shows my age) and so I keep it to a minimum number of fixed controls.
 
