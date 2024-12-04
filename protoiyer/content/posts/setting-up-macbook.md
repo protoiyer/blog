@@ -1,6 +1,6 @@
 ---
 title: 'Setting up my Macbook development environment'
-date: Tue, 30 October 2018 22:35:20 +0000
+date: Tue, 30 Oct 2018 22:35:20 +0000
 draft: false
 tags: ['Programming']
 ---
