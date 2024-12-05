@@ -9,6 +9,8 @@ I am an ardent fan of [Functional programming](https://en.wikipedia.org/wiki/Fun
 
 It is indeed a pleasure that some of the concepts of Functional programming has trickled into the mainstream programming languages like Java and C#. The other Functional programming languages I have dabbled with include [Haskell](https://www.haskell.org/), [Scheme](https://www.scheme.org/), [Racket](https://www.racket-lang.org/), [Elixir](https://elixir-lang.org/), [Scala](https://www.scala-lang.org/), [F#](https://fsharp.org/) and [Elm](https://elm-lang.org/) among others.
 
+But Clojure stands out, for me at least, as the language I felt most joy coding with (with Ruby in the second place).
+
 This interest in Functional programming flowed from perusing books and articles including [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) by Eric S. Raymond, and the excellent, thought-provoking posts by [Paul Graham](https://twitter.com/paulg) including [Revenge of the Nerds](https://www.paulgraham.com/icad.html) and [Beating the Averages](https://www.paulgraham.com/avg.html).
 
 Though there are a number of books, blog posts and videos on Clojure, it would be remiss if I don't mention the ones that I found most useful. In no particular order:
@@ -34,3 +36,7 @@ Many Clojure books are [listed here](https://clojure.org/community/books), but t
 [Programming Clojure, Third Edition](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/) by [Alex Miller](https://insideclojure.org/about/) with [Stuart Halloway](https://www.cognitect.com/authors/StuartHalloway.html) and [Aaron Bedra](https://twitter.com/abedra).
 
 [Getting Clojure](https://pragprog.com/titles/roclojure/getting-clojure/) by [Russ Oslen](https://twitter.com/russolsen)
+
+And then there are the classic Lisp books and for want of time, I am not venturing into listing them.
+
+Happy coding and thanks for reading!
