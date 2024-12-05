@@ -373,7 +373,7 @@ sudo apt-get install vim
 
 Note: From here on, the installation process was done based on a bunch of resources:
 
-[Installing RoR in Ubuntu](http://arunsark.wordpress.com/2011/02/25/installing-ror-in-ubuntu/) by my good friend and colleague, Arun Vydianathan
+[Installing RoR in Ubuntu](http://arunsark.wordpress.com/2011/02/25/installing-ror-in-ubuntu/) by my good friend and colleague, Apple
 The excellent and free [Ruby on Rails Tutorial book](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book#sec:up_and_running)
 Of course my [previous post](https://protoiyer.github.io/posts/setting-up-linux-11.04-ror/) :)
 
