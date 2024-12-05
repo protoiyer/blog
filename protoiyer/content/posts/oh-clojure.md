@@ -5,7 +5,7 @@ draft: false
 tags: ['Programming']
 ---
 
-I am an ardent fan of [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) and in particular the [Lisp family of languages](https://en.wikipedia.org/wiki/Lisp_(programming_language)). [Clojure](https://clojure.org/) stands out in that list due to it being a modern and brilliant Lisp. It is one of the best ways to weed out accidental complexity (usually introduced by languages like Java) and worry about only the essential complexity of a problem. We are all indebted to [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) for creating [Clojure](https://clojure.org/), piggy-backing on the JVM, and later [ClojureScript](https://clojurescript.org/) that targets JavaScript.
+I am an ardent fan of the [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) paradigm, and in particular the [Lisp family of languages](https://en.wikipedia.org/wiki/Lisp_(programming_language)). [Clojure](https://clojure.org/) stands out in that list due to it being a modern and brilliant Lisp. It is one of the best ways to weed out accidental complexity (usually introduced by languages like Java) and worry about only the essential complexity of a problem. We are all indebted to [Rich Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) for creating [Clojure](https://clojure.org/), piggy-backing on the JVM, and later [ClojureScript](https://clojurescript.org/) that targets JavaScript.
 
 It is indeed a pleasure that some of the concepts of Functional programming has trickled into the mainstream programming languages like Java and C#. The other Functional programming languages I have dabbled with include [Haskell](https://www.haskell.org/), [Scheme](https://www.scheme.org/), [Racket](https://www.racket-lang.org/), [Elixir](https://elixir-lang.org/), [Scala](https://www.scala-lang.org/), [F#](https://fsharp.org/) and [Elm](https://elm-lang.org/) among others.
 
@@ -36,6 +36,8 @@ Many Clojure books are [listed here](https://clojure.org/community/books), but t
 [Programming Clojure, Third Edition](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/) by [Alex Miller](https://insideclojure.org/about/) with [Stuart Halloway](https://www.cognitect.com/authors/StuartHalloway.html) and [Aaron Bedra](https://twitter.com/abedra).
 
 [Getting Clojure](https://pragprog.com/titles/roclojure/getting-clojure/) by [Russ Oslen](https://twitter.com/russolsen)
+
+[Functional Design: Principles, Patterns, and Practices](https://www.informit.com/store/functional-design-principles-patterns-and-practices-9780138176396) by [Uncle Bob Martin](https://twitter.com/unclebobmartin).
 
 And then there are the classic Lisp books and for want of time, I am not venturing into listing them.
 
